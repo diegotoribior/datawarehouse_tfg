@@ -1,0 +1,10 @@
+Correciones del tribunal:
+- Todos los scripts de SQL deben ir en un anexo aparte. Bastaba con explicar uno solo y el resto transcribirlos en el anexo.
+- Falta una descripción de las herramientas utilizadas.
+- En los diagramas de elaboración propia, especificar que lo son.
+- Falta dar un nombre a cada capítulo.
+- La tabla de índices debe estar numerada.
+- Citar las tablas para no repertirlas.
+- Invertir el orden las secciones de "conclusiones" y "líneas futuras".
+- Párrafos muy largos, demasiada información.
+- Falta citar la biblioagrafía a lo largo del documento del TFG.
