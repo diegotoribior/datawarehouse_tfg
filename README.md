@@ -11,11 +11,12 @@ En mi portfolio cuento más sobre como desarrollé este proyecto.
 
 En este repositorio he incluido:
 * Las bases de datos que forman parte del Data Warehouse y los Data Marts del proyecto.
-* Los [datos públicos del Gobierno de Canarias](https://datos.canarias.es/portal/) en formato json.
-* El proyecto de Power BI para visualizar los datos.
+* Los [datos públicos del Gobierno de Canarias](https://datos.canarias.es/portal/) utilizados en formato json.
+* El proyecto de Power BI para visualizar los datos en un dashboard.
 * Los scripts en SQL para crear las tablas Dim y Fact del Data Warehouse y de los Data Marts.
+* Los scripts realizados en SQL Integration Services para los procesos ETL en un archivo comprimido zip.
 
-El panel de datos creado en Power BI no está publicado. Para poder visualizar el proyecto, puedes hacerlo en los vídeos del portfolio.
+El dashboard creado en Power BI no está publicado. Para poder visualizar el proyecto, puedes hacerlo en los vídeos del proyecto de mi portfolio.
 
 En este repositorio también se incluye:
 * La presentación del proyecto en formato pdf y pptx.
