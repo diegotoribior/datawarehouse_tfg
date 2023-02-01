@@ -3,7 +3,7 @@
 El proyecto consiste en la implementación de un Data Warehouse y su papel dentro de un
 sistema de Business Intelligence.
 
-[imagen del esquema del tfg]
+![imagen del esquema del tfg](https://diegotoribior.github.io/website/portfolio/assets/img/projects/tfg/datawarehouse.png)
 
 A la hora de crear el proyecto, utilicé los datos abiertos del Gobierno de Canarias sobre turismo y Power BI para la visualización de los datos.
 
